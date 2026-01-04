@@ -27,16 +27,4 @@
       <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
     </p>
   </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-abdellatif98&layout=compact" alt="Top Languages" />
-  </div>
-</div>
-
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=a-abdellatif98.a-abdellatif98" alt="Visitors" />
-</p>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=a-abdellatif98&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-abdellatif98" alt="GitHub Streak" />
-</div>
+ 
